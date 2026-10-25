@@ -1,2 +1,2 @@
 # code-on-java-with-spring-boot
-initiale in spring boot
+initial project on spring boot
